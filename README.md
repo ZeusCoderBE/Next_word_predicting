@@ -2,7 +2,7 @@
 
 ## Introduce
 
-### RNN network simulation image
+### Basic simulation image of RNN neural network
 ![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/259c7bb5-703f-412c-b028-4f5edcb2c194)
 
 ### Environment setup
