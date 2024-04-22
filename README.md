@@ -9,7 +9,7 @@
   
 - Link: https://hcmute.edu.vn/?ArticleId=aead837e-8612-4ce7-80b0-6ae40dca6a53.
 
-
+- The dataset includes 518 words
 ### Steps to build a model in the project
 1. **Preprocessing:**
            - I implemented data preprocessing steps, including sentence extraction, word dictionary generation, and input sequence generation using the n-gram method.
