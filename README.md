@@ -1,4 +1,4 @@
-#Natural Language Processing (NLP) Project
+# Natural Language Processing (NLP) Project
 
 ## Introduce
 
@@ -6,7 +6,8 @@
 1. **Install Python libraries:** `numpy`,`tensorflow`,`scikit-learn`, `pandas`.
 2. **Dataset:**
 - Text data is used from "Speech of the Rector of Ho Chi Minh City University of Technology and Education at the ceremony celebrating 50 years of Vietnam-Germany relations"
--Link: https://hcmute.edu.vn/?ArticleId=aead837e-8612-4ce7-80b0-6ae40dca6a53.
+  
+- Link: https://hcmute.edu.vn/?ArticleId=aead837e-8612-4ce7-80b0-6ae40dca6a53.
 
 
 ### Implemented NLP algorithm
