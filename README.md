@@ -2,6 +2,9 @@
 
 ## Introduce
 
+### RNN network simulation image
+![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/259c7bb5-703f-412c-b028-4f5edcb2c194)
+
 ### Environment setup
 1. **Install Python libraries:** `numpy`,`tensorflow`,`scikit-learn`, `regex` .
 2. **Dataset:**
