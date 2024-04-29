@@ -18,14 +18,15 @@
            - I implemented data preprocessing steps, including sentence extraction, word dictionary generation, and input sequence generation using the n-gram method.
    
 2. **Word Embedding:**
-           -I use a word embedding layer to reduce the representation size of words. To improve computing and learning abilities.
+           -I use a word embedding layer to reduce the representation size of words.To improve computing and learning abilities.
+   
            -I represent words in a multidimensional vector space to capture semantic relationships.
 
-3. **Recurrent Neural Network (RNN):**
+4. **Recurrent Neural Network (RNN):**
            - I built a deep learning architecture, including embedding layers and SimpleRNN to train the model.
            - I used TensorFlow and Keras libraries to develop and evaluate the model
    
-4. **Performance evaluation**
+5. **Performance evaluation**
            - Used metrics such as accuracy, precision, recall, and F1 score to evaluate the performance of RNN models on the test set.
 
 ### Libraries and Technology
