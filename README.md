@@ -2,8 +2,11 @@
 
 ## Introduce
 
-### Basic simulation image of RNN neural network
+### Simulation image of RNN neural network
 ![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/259c7bb5-703f-412c-b028-4f5edcb2c194)
+
+### visualization after word embedding
+![Uploading image.png…]()
 
 ### Environment setup
 1. **Install Python libraries:** `numpy`,`tensorflow`,`scikit-learn`, `regex` .
@@ -16,7 +19,8 @@
 ### Steps to build a model in the project
 1. **Preprocessing:**
    
-           - I implemented data preprocessing steps, including sentence extraction, word dictionary generation, and input sequence generation using the n-gram method.
+           - Perform data preprocessing steps, including sentence extraction, meaningful word matching, white space removal, punctuation removal, word dictionary   
+            generation, and input sequence generation using the n-gram method.
    
 3. **Word Embedding:**
    
