@@ -6,7 +6,8 @@
 ![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/259c7bb5-703f-412c-b028-4f5edcb2c194)
 
 ### visualization after word embedding
-![Uploading image.png…]()
+![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/5f9638f7-f57e-409b-817c-e50ef060135a)
+
 
 ### Environment setup
 1. **Install Python libraries:** `numpy`,`tensorflow`,`scikit-learn`, `regex` .
