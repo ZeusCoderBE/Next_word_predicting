@@ -2,8 +2,7 @@
 
 ## WorkFlow
 
-![text_generation](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/45c818a3-5808-48a6-9d1b-f7da1192ffb2)
-
+![Uploading text_generation (2).png…]()
 
 
 ### Visualization after word embedding
