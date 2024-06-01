@@ -1,9 +1,9 @@
-# Building an RNN model to predict the next word that will appear in a sentence is a problem in natural language processing
+# Applying Artificial Neural Networks to Build Text Generation Models as Part of the Generative AI Problem 
 
-## Introduce
+## WorkFlow
 
-### Simulation image of RNN neural network
-![model](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/0fa37396-e5dc-446c-8287-f943bd711f31)
+![text_generation](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/45c818a3-5808-48a6-9d1b-f7da1192ffb2)
+
 
 
 ### Visualization after word embedding
