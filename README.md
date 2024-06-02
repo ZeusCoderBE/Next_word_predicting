@@ -13,9 +13,9 @@
 ### Environment setup
 1. **Install Python libraries:** `numpy`,`tensorflow`,`scikit-learn`, `regex` .
 2. **Dataset:**
-- Text data is used from "Speech of the Rector of Ho Chi Minh City University of Technology and Education at the ceremony celebrating 50 years of Vietnam-Germany relations"
+- Text data is used from "Land Law"
   
-- Link: https://hcmute.edu.vn/?ArticleId=aead837e-8612-4ce7-80b0-6ae40dca6a53.
+- Link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-31-2024-QH15-523642.aspx
 
 - The dataset includes 518 words
 ### Steps to build a model in the project
