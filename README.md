@@ -17,7 +17,6 @@
   
 - Link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-31-2024-QH15-523642.aspx
 
-- The dataset includes 518 words
 ### Steps to build a model in the project
 1. **Preprocessing:**
    
