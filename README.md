@@ -1,23 +1,22 @@
-# Building an RNN model to predict the next word that will appear in a sentence is a problem in natural language processing
+# Applying Artificial Neural Networks to Build Text Generation Models as Part of the Generative AI Problem 
 
-## Introduce
+## WorkFlow
 
-### Simulation image of RNN neural network
-![model](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/0fa37396-e5dc-446c-8287-f943bd711f31)
+![text_generation (2)](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/ad93bb7e-158b-4214-860d-e54ab19de370)
+
 
 
 ### Visualization after word embedding
-![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/5f9638f7-f57e-409b-817c-e50ef060135a)
+![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/396a132a-3b41-4032-89f3-7546abffdf31)
 
 
 ### Environment setup
 1. **Install Python libraries:** `numpy`,`tensorflow`,`scikit-learn`, `regex` .
 2. **Dataset:**
-- Text data is used from "Speech of the Rector of Ho Chi Minh City University of Technology and Education at the ceremony celebrating 50 years of Vietnam-Germany relations"
+- Text data is used from "Land Law"
   
-- Link: https://hcmute.edu.vn/?ArticleId=aead837e-8612-4ce7-80b0-6ae40dca6a53.
+- Link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-31-2024-QH15-523642.aspx
 
-- The dataset includes 518 words
 ### Steps to build a model in the project
 1. **Preprocessing:**
    
