@@ -7,7 +7,7 @@
 
 
 ### Visualization after word embedding
-![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/5f9638f7-f57e-409b-817c-e50ef060135a)
+![image](https://github.com/ZeusCoderBE/Next_word_predicting/assets/117000361/396a132a-3b41-4032-89f3-7546abffdf31)
 
 
 ### Environment setup
